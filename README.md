@@ -12,6 +12,5 @@ PowerPulse is designed to help you achieve your fitness goals by providing a cen
 - **Product Tracker:** Stay updated on the latest fitness products and supplements.
 
 ## Getting Started
-1. Clone this repository.
 [https://github.com/dmytrozhdanov.github.io](https://dmytrozhdanov.github.io/power-pulse/diary)
-Note: PowerPulse uses a free backend, so please be patient as it may take a moment for it to start up.
+**Note**: PowerPulse uses a free backend, so please be patient as it may take a moment for it to start up.
